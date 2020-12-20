@@ -1,0 +1,11 @@
+from django.db
+class test(models.mode):
+	ques-models.charfield(max-length=100)
+	op1-models.charfield(max-length=50)
+	op2-models.charfield(max-length=50)
+	op3-models.charfield(max-length=50)
+	op4-models.charfield(max-length=50)
+	correct-models.charfield(max-length=50)
+class data:
+	db_table="quiz 2021"
+	

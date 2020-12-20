@@ -1,0 +1,4 @@
+from django.shortcuts import render
+def onlinequiz(req);
+	results=test.objects.all()
+	return render(req,'main.html',{"test":results})
